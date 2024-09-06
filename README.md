@@ -11,7 +11,7 @@ Fetchly is a lightweight Axios wrapper designed to simplify HTTP requests in Moc
 
 ### Installation:
 ```bash
-npm install fetchly
+npm install codepool-fetchly
 ```
 
 ### Usage:

@@ -1,5 +1,5 @@
 {
-  "name": "fetchly",
+  "name": "codepool-fetchly",
   "version": "1.0.0",
   "description": "Fetchly simplifies HTTP requests in Mocha tests by returning standardized responses for all HTTP methods, avoiding exceptions and streamlining error handling. It’s ideal for QA and developers needing consistent API interactions in automated tests.",
   "main": "index.js",
