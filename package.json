@@ -1,0 +1,20 @@
+{
+  "name": "fetchly",
+  "version": "1.0.0",
+  "description": "Fetchly simplifies HTTP requests in Mocha tests by returning standardized responses for all HTTP methods, avoiding exceptions and streamlining error handling. It’s ideal for QA and developers needing consistent API interactions in automated tests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx mocha test"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "Codepool",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7"
+  },
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3"
+  }
+}
