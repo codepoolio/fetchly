@@ -16,7 +16,7 @@ npm install codepool-fetchly
 
 ### Usage:
 ```javascript
-import Fetchly from 'codepool-fetchly';
+import Fetchly from 'codepool-fetchly/fetchly.js';
 
 const fetchly = new Fetchly({ baseURL: 'https://api.example.com', withCredentials: true });
 
